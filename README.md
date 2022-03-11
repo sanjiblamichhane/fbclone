@@ -1,4 +1,8 @@
 # Facebook Web App Clone Created with React.js and Firebase
+<p align="center">
+<h2> Demo </h2>
+<img src="./screenshots/demo1.png"></img>
+</p>
 
 ## Welcome 
 Thanks for checking out [fbclone](https://github.com/sanjiblamichhane/fbclone) project.
